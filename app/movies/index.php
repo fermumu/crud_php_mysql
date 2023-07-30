@@ -54,9 +54,9 @@ $contador = 1;
                 <tr>
                 <th scope="col">#</th>
                 <th scope="col">Nombre</th>
-                <th scope="col">Correo</th>
+                <th scope="col">Descripción</th>
                 <th scope="col">Genero</th>
-                <th scope="col">Imagen</th>
+                <th scope="col">Imágen</th>
                 <th scope="col">Aciones</th>
                 </tr>
             </thead>   
